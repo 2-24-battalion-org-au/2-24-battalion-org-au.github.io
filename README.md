@@ -1,1 +1,0 @@
-# 2-24-battalion-org-au.github.io
