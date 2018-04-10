@@ -16,7 +16,7 @@
     * [Short History of 2/24 at AWM and link to purchase copy of Battalion history](history.html)
     * [Story of the two Colour Patches worn by Second 24th](patches.html)
     * [The 2/24th Memorial Wall at Wangaratta Cemetery](memwall/memwall.html)
-    * [Addresses and Lectures](lectures.html)
+    * [Addresses and Lectures](lecture.html)
 
 ---
 
