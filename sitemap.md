@@ -53,6 +53,5 @@
     * [Members who served in the Middle East](rolls/service-me.html)
     * [Roll call of Prisoners of War](rolls/pow.html)
     * [List of Plaques on the Wangaratta Memorial Wall](rolls/plaques.html)
-
     * [Searching for service records](archives.html)
     * [Vale - 2/24 (post-war)](vale.html)
