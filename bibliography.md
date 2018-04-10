@@ -9,13 +9,16 @@
 
 ## Movies
 
-  * **The Fighting Rats of Tobruk**
+  * **The Fighting Rats of Tobruk** Story of three men (Rafferty, Taylor and Finch) who join up and fight in Tobruk.
+
     DVD with Peter Finch, Grant Taylor, Chips Rafferty, George Wallace and Pauline Garrick. Directed by Charles Chauvel, written by Charles and Elsa Chauvel. B&W, released in December 1944. Time: 68mins.
 
-    Story of three men (Rafferty, Taylor and Finch) who join up and fight in Tobruk.
 
-  * **The Desert Fox** DVD with James Mason as Rommel with Cedric Hardwicke and Jessica Tandy. Released in 1951 it depicts Rommel's final years based on the biography by Colonel Desmond Young. Has been criticised as glossing over Rommel's early admiration of Hitler. B&W, made in USA. 88 mins.
+  * **The Desert Fox** Thought to be one of Mason's best roles.
 
-    Thought to be one of Mason's best roles. 
+    DVD with James Mason as Rommel with Cedric Hardwicke and Jessica Tandy. Released in 1951 it depicts Rommel's final years based on the biography by Colonel Desmond Young. Has been criticised as glossing over Rommel's early admiration of Hitler. B&W, made in USA. 88 mins.
 
-  * **The Desert Rats**  DVD - Released in 1953 with Richard Burton, Robert Newton, James Mason, Chips Rafferty and Charles (Bud) Tingwell. Richard Burton plays a Scottish Army officer who is put in charge of a group of troops on the perimeter of Tobruk.  
+
+  * **The Desert Rats** Richard Burton plays a Scottish Army officer who is put in charge of a group of troops on the perimeter of Tobruk.
+
+    DVD - Released in 1953 with Richard Burton, Robert Newton, James Mason, Chips Rafferty and Charles (Bud) Tingwell.
