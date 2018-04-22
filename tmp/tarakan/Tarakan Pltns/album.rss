@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Tarakan Pltns</title>
+   	<link>..</link>
+        <generator>Jalbum 8.2</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>7 Platoon</title>
+            <link>slides/7 Platoon.jpg</link>
+            <pubDate>Sat, 09 May 2009 22:37:44 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/7 Platoon.jpg" width="180" height="122"/>
+            <media:content url="slides/7 Platoon.jpg" width="800" height="544"/>
+            
+            <jalbum:exif originalDate="" cameraMake="Canon" cameraModel="MP610 series"/>
+            <guid isPermaLink="false">slides/7 Platoon.jpg</guid>
+        </item>
+        
+        <item>
+            <title>9 Platoon</title>
+            <link>slides/9 Platoon.jpg</link>
+            <pubDate>Sat, 09 May 2009 22:37:44 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/9 Platoon.jpg" width="180" height="122"/>
+            <media:content url="slides/9 Platoon.jpg" width="800" height="546"/>
+            
+            <jalbum:exif originalDate="" cameraMake="Canon" cameraModel="MP610 series"/>
+            <guid isPermaLink="false">slides/9 Platoon.jpg</guid>
+        </item>
+        
+        <item>
+            <title>8 Platoon</title>
+            <link>slides/8 Platoon.jpg</link>
+            <pubDate>Sat, 09 May 2009 22:37:44 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/8 Platoon.jpg" width="180" height="128"/>
+            <media:content url="slides/8 Platoon.jpg" width="800" height="572"/>
+            
+            <jalbum:exif originalDate="" cameraMake="Canon" cameraModel="MP610 series"/>
+            <guid isPermaLink="false">slides/8 Platoon.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Tarakan</title>
+            <link>slides/Tarakan.jpg</link>
+            <pubDate>Sat, 09 May 2009 22:37:44 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tarakan.jpg" width="180" height="120"/>
+            <media:content url="slides/Tarakan.jpg" width="799" height="534"/>
+            
+            <jalbum:exif originalDate="" cameraMake="Canon" cameraModel="MP610 series"/>
+            <guid isPermaLink="false">slides/Tarakan.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>
