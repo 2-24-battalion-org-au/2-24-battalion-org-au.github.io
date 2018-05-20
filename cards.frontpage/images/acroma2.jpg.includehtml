@@ -1,0 +1,6 @@
+    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+        <img class="card-img-top" src="acroma2.jpg" alt="Knightsbridge cemetery, Tobruk">
+        <div class="card-body">
+          <h5 class="card-title">Knightsbridge cemetery, Tobruk</h5>
+        </div>
+    </div>

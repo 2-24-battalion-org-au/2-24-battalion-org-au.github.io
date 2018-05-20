@@ -1,0 +1,81 @@
+    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+        <img class="card-img-top" src="/frontpage/images/9thDiv_elal.jpg" alt="2/24th Memorials">
+        <div class="card-body">
+          <h5 class="card-title">2/24th Memorials</h5>
+        </div>
+    </div>
+    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+        <div class="card-body">
+          <h5 class="card-title">We Will Remember Them</h5>
+          <p class="card-text">
+        <p>They shall grow not old,<br />
+As we that are left grow old:<br />
+Age shall not weary them,<br />
+Nor the years condemn,<br />
+At the going down of the sun<br />
+And in the morning<br />
+We will remember them.</p>
+<p>-- <em>Laurence Binyon (1869-1943)</em></p>
+          </p>
+          <a href="/vale.html" class="btn btn-primary">Vale list</a>
+          <a href="/rolls/kia.html" class="btn btn-primary">Killed in action</a>
+        </div>
+    </div>
+    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+        <div class="card-body">
+          <h5 class="card-title">Associated Bodies</h5>
+          <p class="card-text">
+        <h2 id="wangaratta-high-school">Wangaratta High School</h2>
+<p>Under the 'Adopt an Ex-Service Association' program, sponsored by the Shrine of Remembrance, Wangaratta High School has adopted the 2/24 Infantry Battalion</p>
+<p><a href="http://www.whs.vic.edu.au/"> <img alt="Wangaratta High School" src="images/wanghigh.jpg" /> </a></p>
+<h2 id="rats-of-tobruk-assoc-inc-vic">Rats of Tobruk Assoc Inc (Vic)</h2>
+<p>Visit the Rats of Tobruk website</p>
+<p><a href="http://ratsoftobrukvictoria.org.au/"> <img alt="Rats of Tobruk" src="images/rota.png" /> </a></p>
+          </p>
+        </div>
+    </div>
+    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+        <div class="card-body">
+          <h5 class="card-title">Upcoming 2/24th Events</h5>
+          <p class="card-text">
+        <ul>
+<li> <strike><b>Anzac day March and Reunion</b> (passed)<br />
+     <b>date:</b> Thu 26 April 2018<br />
+     <b>time:</b> Check Furphy Flyer for exact details<br />
+     <b>location:</b> <a href="https://www.google.com/maps/search/?api=1&query=Flinders St, Melbourne, Australia">Flinders st, Check Furphy Flyer [maps link]</a><br />
+      </strike>
+</li>
+<li> <strike><b>Anzac Reunion Lunch</b> (passed)<br />
+     <b>date:</b> Thu 26 April 2018<br />
+     <b>time:</b> 12:00pm-2:00pm<br />
+     <b>location:</b> <a href="https://www.google.com/maps/search/?api=1&query=40 Cumberland Rd, Pascoe Vale VIC 3044, Australia">Pascoe Vale RSL [maps link]</a><br />
+      </strike>
+</li>
+<li> <b>Battalion Birthday Lunch</b> <br />
+     <b>date:</b> Fri 06 July 2018<br />
+     <b>time:</b> 12:00pm-2:00pm<br />
+     <b>location:</b> <a href="https://www.google.com/maps/search/?api=1&query=40 Cumberland Rd, Pascoe Vale VIC 3044, Australia">Pascoe Vale RSL [maps link]</a><br />
+      </strike>
+</li>
+<li> <b>2/24th Shrine Pilgrimage Service</b> <br />
+     <b>date:</b> Sun 21 October 2018<br />
+     <b>time:</b> TBA: check Furphy Flyer<br />
+     <b>location:</b> <a href="https://www.google.com/maps/search/?api=1&query=Shine of Rememberance, Melboure, Australia">Shine of Rememberance, Melboure, Australia [maps link]</a><br />
+      </strike>
+</li>
+<li> <b>9th Division Shrine Pilgrimage Service</b> <br />
+     <b>date:</b> Sun 21 October 2018<br />
+     <b>time:</b> TBA: check Furphy Flyer<br />
+     <b>location:</b> <a href="https://www.google.com/maps/search/?api=1&query=Shine of Rememberance, Melboure, Australia">Shine of Rememberance, Melboure, Australia [maps link]</a><br />
+      </strike>
+</li>
+<li> <b>Wangaratta Reunion Weekend</b> <br />
+     <b>date:</b> Fri 09 November 2018 - Sun 11 November 2018<br />
+     <b>time:</b> Various events<br />
+     <b>location:</b> <a href="https://www.google.com/maps/search/?api=1&query=Wangaratta, Victoria, Australia">Various locations around Wangaratta [maps link]</a><br />
+      </strike>
+</li>
+</ul>
+          </p>
+        </div>
+    </div>
