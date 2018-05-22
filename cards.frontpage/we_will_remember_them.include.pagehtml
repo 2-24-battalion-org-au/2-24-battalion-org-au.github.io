@@ -1,0 +1,21 @@
+
+
+  <!-- BEGIN: card -->
+    <div class="card shadow col-sm-12 p-3 mb-5 bg-white rounded">
+      <div class="card-body">
+        <h5 class="card-title">We Will Remember Them</h5>
+        <p class="card-text">
+      <p>They shall grow not old,<br />
+As we that are left grow old:<br />
+Age shall not weary them,<br />
+Nor the years condemn,<br />
+At the going down of the sun<br />
+And in the morning<br />
+We will remember them.</p>
+<p>-- <em>Laurence Binyon (1869-1943)</em></p>
+        </p>
+        <a href="/vale.html" class="btn btn-primary">Vale list</a>
+        <a href="/rolls/kia.html" class="btn btn-primary">Killed in action</a>
+      </div> <!-- end cardbody -->
+    </div>
+    <!-- END: card -->

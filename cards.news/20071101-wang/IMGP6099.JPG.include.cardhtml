@@ -1,0 +1,13 @@
+
+
+  <!-- BEGIN: card -->
+    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <img class="card-img-top" src="IMGP6099.JPG" alt="Norm playing the Battalion Bugle">
+      <div class="card-body">
+        <h5 class="card-title">Norm playing the Battalion Bugle</h5>
+        <p class="card-text">
+      <p>Norm plays the bugle infront of the wall at Wangaratta.</p>
+        </p>
+      </div> <!-- end cardbody -->
+    </div>
+    <!-- END: card -->

@@ -14,19 +14,6 @@
 <link rel="stylesheet" href="/libs/bootstrap4.xxl/bootstrap.css"  />
 
 
-<style>
-/* Extra, extra large devices */
-@media (min-width: 1600px) {
-  .container {
-    max-width: 90%;
-    width: 90%;
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: 15px;
-    padding-left: 15px;
-  };
-}
-</style>
 
 
 </head>
@@ -111,8 +98,6 @@
 
 
 
-
-
 <div class="container" style="background-color:#ffffff;">
  <div class="row">
   <div class="col-sm">
@@ -122,6 +107,31 @@
  <div class="row">
   <div class="col-sm">
 
+    <div>
+      Screen size: <span id="replacemeXY">not set yet</span>
+            <span class="badge bg-info d-xxl-inline d-none">xxl</span>
+            <span class="badge bg-info d-xxl-none d-xl-inline d-none">xl</span>
+            <span class="badge bg-info d-xl-none d-lg-inline d-none">lg</span>
+            <span class="badge bg-info d-lg-none d-md-inline d-none">md</span>
+            <span class="badge bg-info d-md-none d-sm-inline d-none">sm</span>
+            <span class="badge bg-info d-sm-none d-xs-inline d-none">xs</span>
+            <span class="badge bg-info d-xs-none d-inline d-none">xxs</span>
+    </div>
+
+<script>
+function redosizes() {
+  document.getElementById("replacemeXY").innerHTML =
+  "screen is " + screen.width + ',' + screen.height + '<br>' +
+  "window is " + $(window).width() + ',' + $(window).height() + '<br>' +
+  "document is " + $(document).width() + ',' + $(document).height() + '<br>' ;
+  }
+window.addEventListener("resize", redosizes );
+
+
+</script>
+
+  </div>
+ </div>
 
 <h1 id="list-of-battalion-members-who-were-casualties-killed-or-wounded">List of battalion members who were casualties (killed or wounded)</h1>
 <p><em>This list is gathered to the best of our knowledge. If you have any modifications or corrections then please get <a href="/contacts.html">in contact via our contact page</a> with us.</em></p>

@@ -1,0 +1,26 @@
+
+
+  <!-- BEGIN: card -->
+    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <div class="card-body">
+        <h5 class="card-title">Upcoming 2/24th Events</h5>
+        <p class="card-text">
+      <ul>
+<li> <b><a href="/cards.events/battalion_birthday_lunch.html">Battalion Birthday Lunch</a></b><br />
+     <b>date:</b> 12:00pm-2:00pm @ Fri 06 July 2018<br><br />
+</li>
+<li> <b><a href="/cards.events/224th_shrine_pilgrimage_service.html">2/24th Shrine Pilgrimage Service</a></b><br />
+     <b>date:</b> TBA: check Furphy Flyer @ Sun 21 October 2018<br><br />
+</li>
+<li> <b><a href="/cards.events/9th_division_shrine_pilgrimage_service.html">9th Division Shrine Pilgrimage Service</a></b><br />
+     <b>date:</b> TBA: check Furphy Flyer @ Fri 26 October 2018<br><br />
+</li>
+<li> <b><a href="/cards.events/wangaratta_reunion_weekend.html">Wangaratta Reunion Weekend</a></b><br />
+     <b>date:</b> Various events @ Fri 09 November 2018-Sun 11 November 2018<br><br />
+</li>
+</ul>
+        </p>
+        <a href="/cards.events/index.html" class="btn btn-primary">more details</a>
+      </div> <!-- end cardbody -->
+    </div>
+    <!-- END: card -->

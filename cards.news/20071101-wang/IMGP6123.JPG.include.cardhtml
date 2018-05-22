@@ -1,0 +1,12 @@
+
+
+  <!-- BEGIN: card -->
+    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <img class="card-img-top" src="IMGP6123.JPG" alt="Originals gather for a photo">
+      <div class="card-body">
+        <h5 class="card-title">Originals gather for a photo</h5>
+        <p class="card-text">
+        </p>
+      </div> <!-- end cardbody -->
+    </div>
+    <!-- END: card -->

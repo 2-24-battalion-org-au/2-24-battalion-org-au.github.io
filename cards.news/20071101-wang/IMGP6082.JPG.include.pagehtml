@@ -1,0 +1,11 @@
+
+
+  <!-- BEGIN: card -->
+    <div class="card shadow col-sm-12 p-3 mb-5 bg-white rounded">
+      <img class="card-img-top" src="IMGP6082.JPG" alt="None">
+      <div class="card-body">
+        <p class="card-text">
+        </p>
+      </div> <!-- end cardbody -->
+    </div>
+    <!-- END: card -->

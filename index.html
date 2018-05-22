@@ -14,19 +14,6 @@
 <link rel="stylesheet" href="/libs/bootstrap4.xxl/bootstrap.css"  />
 
 
-<style>
-/* Extra, extra large devices */
-@media (min-width: 1600px) {
-  .container {
-    max-width: 90%;
-    width: 90%;
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: 15px;
-    padding-left: 15px;
-  };
-}
-</style>
 
 
 </head>
@@ -111,8 +98,6 @@
 
 
 
-
-
 <div class="container" style="background-color:#ffffff;">
  <div class="row">
   <div class="col-sm">
@@ -122,11 +107,35 @@
  <div class="row">
   <div class="col-sm">
 
+    <div>
+      Screen size: <span id="replacemeXY">not set yet</span>
+            <span class="badge bg-info d-xxl-inline d-none">xxl</span>
+            <span class="badge bg-info d-xxl-none d-xl-inline d-none">xl</span>
+            <span class="badge bg-info d-xl-none d-lg-inline d-none">lg</span>
+            <span class="badge bg-info d-lg-none d-md-inline d-none">md</span>
+            <span class="badge bg-info d-md-none d-sm-inline d-none">sm</span>
+            <span class="badge bg-info d-sm-none d-xs-inline d-none">xs</span>
+            <span class="badge bg-info d-xs-none d-inline d-none">xxs</span>
+    </div>
+
+<script>
+function redosizes() {
+  document.getElementById("replacemeXY").innerHTML =
+  "screen is " + screen.width + ',' + screen.height + '<br>' +
+  "window is " + $(window).width() + ',' + $(window).height() + '<br>' +
+  "document is " + $(document).width() + ',' + $(document).height() + '<br>' ;
+  }
+window.addEventListener("resize", redosizes );
+
+
+</script>
+
+  </div>
+ </div>
 
 
 
 
-<img class="img-fluid" src="images/Fullpan20.jpg" alt="Header banner of pictures">
 
 
   </div>
@@ -136,6 +145,8 @@
   <div class="col-sm">
     <div class="jumbotron">
 <center>
+<img class="img-fluid" src="images/Fullpan20.jpg" alt="Header banner of pictures">
+<br>
 <h1><b>The 2/24 Australian Infantry Battalion Assoc Inc.</b></h1>
 <p>
 <h3><i>I Hold Fast</i></h3>
@@ -151,17 +162,27 @@
 
 <div class="container card-group container-fluid">
   <div class="row" style=".row { display: flex; flex-wrap: wrap; };">
+
+
+  <!-- BEGIN: card -->
     <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
-        <img class="card-img-top" src="/frontpage/images/9thDiv_elal.jpg" alt="2/24th Memorials">
-        <div class="card-body">
-          <h5 class="card-title">2/24th Memorials</h5>
-        </div>
+      <img class="card-img-top" src="/cards.frontpage/images/9thDiv_elal.jpg" alt="2/24th Memorials">
+      <div class="card-body">
+        <h5 class="card-title">2/24th Memorials</h5>
+        <p class="card-text">
+        </p>
+      </div> <!-- end cardbody -->
     </div>
+    <!-- END: card -->
+
+
+
+  <!-- BEGIN: card -->
     <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
-        <div class="card-body">
-          <h5 class="card-title">We Will Remember Them</h5>
-          <p class="card-text">
-        <p>They shall grow not old,<br />
+      <div class="card-body">
+        <h5 class="card-title">We Will Remember Them</h5>
+        <p class="card-text">
+      <p>They shall grow not old,<br />
 As we that are left grow old:<br />
 Age shall not weary them,<br />
 Nor the years condemn,<br />
@@ -169,71 +190,60 @@ At the going down of the sun<br />
 And in the morning<br />
 We will remember them.</p>
 <p>-- <em>Laurence Binyon (1869-1943)</em></p>
-          </p>
-          <a href="/vale.html" class="btn btn-primary">Vale list</a>
-          <a href="/rolls/kia.html" class="btn btn-primary">Killed in action</a>
-        </div>
+        </p>
+        <a href="/vale.html" class="btn btn-primary">Vale list</a>
+        <a href="/rolls/kia.html" class="btn btn-primary">Killed in action</a>
+      </div> <!-- end cardbody -->
     </div>
+    <!-- END: card -->
+
+
+
+  <!-- BEGIN: card -->
     <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
-        <div class="card-body">
-          <h5 class="card-title">Associated Bodies</h5>
-          <p class="card-text">
-        <h2 id="wangaratta-high-school">Wangaratta High School</h2>
+      <div class="card-body">
+        <h5 class="card-title">Associated Bodies</h5>
+        <p class="card-text">
+      <h2 id="wangaratta-high-school">Wangaratta High School</h2>
 <p><a href="http://www.whs.vic.edu.au/"> <img alt="Wangaratta High School" src="images/wanghigh_square.jpg" style="float:right" /> </a></p>
 <p>Under the 'Adopt an Ex-Service Association' program, sponsored by the Shrine of Remembrance, Wangaratta High School has adopted the 2/24 Infantry Battalion</p>
 <h2 id="rats-of-tobruk-assoc-inc-vic">Rats of Tobruk Assoc Inc (Vic)</h2>
 <p><a href="http://ratsoftobrukvictoria.org.au/"> <img alt="Rats of Tobruk" src="images/rota.png" style="float:right" /> </a></p>
 <p>Visit the Rats of Tobruk website</p>
-          </p>
-        </div>
+        </p>
+      </div> <!-- end cardbody -->
     </div>
+    <!-- END: card -->
+
+
+
+  <!-- BEGIN: card -->
     <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
-        <div class="card-body">
-          <h5 class="card-title">Upcoming 2/24th Events</h5>
-          <p class="card-text">
-        <ul>
-<li> <strike><b>Anzac day March and Reunion</b> (passed)<br />
-     <b>date:</b> Thu 26 April 2018<br />
-     <b>time:</b> Check Furphy Flyer for exact details<br />
-     <b>location:</b> <a href="https://www.google.com/maps/search/?api=1&query=Flinders St, Melbourne, Australia">Flinders st, Check Furphy Flyer [maps link]</a><br />
-      </strike>
+      <div class="card-body">
+        <h5 class="card-title">Upcoming 2/24th Events</h5>
+        <p class="card-text">
+      <ul>
+<li> <b><a href="/cards.events/battalion_birthday_lunch.html">Battalion Birthday Lunch</a></b><br />
+     <b>date:</b> 12:00pm-2:00pm @ Fri 06 July 2018<br><br />
 </li>
-<li> <strike><b>Anzac Reunion Lunch</b> (passed)<br />
-     <b>date:</b> Thu 26 April 2018<br />
-     <b>time:</b> 12:00pm-2:00pm<br />
-     <b>location:</b> <a href="https://www.google.com/maps/search/?api=1&query=40 Cumberland Rd, Pascoe Vale VIC 3044, Australia">Pascoe Vale RSL [maps link]</a><br />
-      </strike>
+<li> <b><a href="/cards.events/224th_shrine_pilgrimage_service.html">2/24th Shrine Pilgrimage Service</a></b><br />
+     <b>date:</b> TBA: check Furphy Flyer @ Sun 21 October 2018<br><br />
 </li>
-<li> <b>Battalion Birthday Lunch</b> <br />
-     <b>date:</b> Fri 06 July 2018<br />
-     <b>time:</b> 12:00pm-2:00pm<br />
-     <b>location:</b> <a href="https://www.google.com/maps/search/?api=1&query=40 Cumberland Rd, Pascoe Vale VIC 3044, Australia">Pascoe Vale RSL [maps link]</a><br />
-      </strike>
+<li> <b><a href="/cards.events/9th_division_shrine_pilgrimage_service.html">9th Division Shrine Pilgrimage Service</a></b><br />
+     <b>date:</b> TBA: check Furphy Flyer @ Fri 26 October 2018<br><br />
 </li>
-<li> <b>2/24th Shrine Pilgrimage Service</b> <br />
-     <b>date:</b> Sun 21 October 2018<br />
-     <b>time:</b> TBA: check Furphy Flyer<br />
-     <b>location:</b> <a href="https://www.google.com/maps/search/?api=1&query=Shine of Rememberance, Melboure, Australia">Shine of Rememberance, Melboure, Australia [maps link]</a><br />
-      </strike>
-</li>
-<li> <b>9th Division Shrine Pilgrimage Service</b> <br />
-     <b>date:</b> Sun 21 October 2018<br />
-     <b>time:</b> TBA: check Furphy Flyer<br />
-     <b>location:</b> <a href="https://www.google.com/maps/search/?api=1&query=Shine of Rememberance, Melboure, Australia">Shine of Rememberance, Melboure, Australia [maps link]</a><br />
-      </strike>
-</li>
-<li> <b>Wangaratta Reunion Weekend</b> <br />
-     <b>date:</b> Fri 09 November 2018 - Sun 11 November 2018<br />
-     <b>time:</b> Various events<br />
-     <b>location:</b> <a href="https://www.google.com/maps/search/?api=1&query=Wangaratta, Victoria, Australia">Various locations around Wangaratta [maps link]</a><br />
-      </strike>
+<li> <b><a href="/cards.events/wangaratta_reunion_weekend.html">Wangaratta Reunion Weekend</a></b><br />
+     <b>date:</b> Various events @ Fri 09 November 2018-Sun 11 November 2018<br><br />
 </li>
 </ul>
-          </p>
-        </div>
+        </p>
+        <a href="/cards.events/index.html" class="btn btn-primary">more details</a>
+      </div> <!-- end cardbody -->
     </div>
-  </div>
-</div>
+    <!-- END: card -->
+
+  </div> <!-- end row -->
+</div>  <!-- end card container -->
 
 
 

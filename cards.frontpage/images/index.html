@@ -14,19 +14,6 @@
 <link rel="stylesheet" href="/libs/bootstrap4.xxl/bootstrap.css"  />
 
 
-<style>
-/* Extra, extra large devices */
-@media (min-width: 1600px) {
-  .container {
-    max-width: 90%;
-    width: 90%;
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: 15px;
-    padding-left: 15px;
-  };
-}
-</style>
 
 
 </head>
@@ -111,8 +98,6 @@
 
 
 
-
-
 <div class="container" style="background-color:#ffffff;">
  <div class="row">
   <div class="col-sm">
@@ -122,41 +107,99 @@
  <div class="row">
   <div class="col-sm">
 
+    <div>
+      Screen size: <span id="replacemeXY">not set yet</span>
+            <span class="badge bg-info d-xxl-inline d-none">xxl</span>
+            <span class="badge bg-info d-xxl-none d-xl-inline d-none">xl</span>
+            <span class="badge bg-info d-xl-none d-lg-inline d-none">lg</span>
+            <span class="badge bg-info d-lg-none d-md-inline d-none">md</span>
+            <span class="badge bg-info d-md-none d-sm-inline d-none">sm</span>
+            <span class="badge bg-info d-sm-none d-xs-inline d-none">xs</span>
+            <span class="badge bg-info d-xs-none d-inline d-none">xxs</span>
+    </div>
 
-<div class="container card-group container-fluid">
-  <div class="row" style=".row { display: flex; flex-wrap: wrap; };">
-    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
-        <img class="card-img-top" src="9thDiv_elal.jpg" alt="9th Division memorial, El Alamein">
-        <div class="card-body">
-          <h5 class="card-title">9th Division memorial, El Alamein</h5>
-        </div>
-    </div>
-    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
-        <img class="card-img-top" src="acroma2.jpg" alt="Knightsbridge cemetery, Tobruk">
-        <div class="card-body">
-          <h5 class="card-title">Knightsbridge cemetery, Tobruk</h5>
-        </div>
-    </div>
-    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
-        <img class="card-img-top" src="figtree08.jpg" alt="Fig Tree, Tobruk">
-        <div class="card-body">
-          <h5 class="card-title">Fig Tree, Tobruk</h5>
-        </div>
-    </div>
-    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
-        <img class="card-img-top" src="tobruk_cem1.jpg" alt="Australian Memorial, Tobruk">
-        <div class="card-body">
-          <h5 class="card-title">Australian Memorial, Tobruk</h5>
-        </div>
-    </div>
-    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
-        <img class="card-img-top" src="tobruk_cem2.jpg" alt="Australian Memorial, Tobruk">
-        <div class="card-body">
-          <h5 class="card-title">Australian Memorial, Tobruk</h5>
-        </div>
-    </div>
+<script>
+function redosizes() {
+  document.getElementById("replacemeXY").innerHTML =
+  "screen is " + screen.width + ',' + screen.height + '<br>' +
+  "window is " + $(window).width() + ',' + $(window).height() + '<br>' +
+  "document is " + $(document).width() + ',' + $(document).height() + '<br>' ;
+  }
+window.addEventListener("resize", redosizes );
+
+
+</script>
+
   </div>
-</div>
+ </div>
+
+<h1>None</h1><div class="container card-group container-fluid">
+  <div class="row" style=".row { display: flex; flex-wrap: wrap; };">
+
+  <!-- BEGIN: card -->
+    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <img class="card-img-top" src="9thDiv_elal.jpg" alt="9th Division memorial, El Alamein">
+      <div class="card-body">
+        <h5 class="card-title">9th Division memorial, El Alamein</h5>
+        <p class="card-text">
+        </p>
+      </div> <!-- end cardbody -->
+    </div>
+    <!-- END: card -->
+
+
+
+  <!-- BEGIN: card -->
+    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <img class="card-img-top" src="acroma2.jpg" alt="Knightsbridge cemetery, Tobruk">
+      <div class="card-body">
+        <h5 class="card-title">Knightsbridge cemetery, Tobruk</h5>
+        <p class="card-text">
+        </p>
+      </div> <!-- end cardbody -->
+    </div>
+    <!-- END: card -->
+
+
+
+  <!-- BEGIN: card -->
+    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <img class="card-img-top" src="figtree08.jpg" alt="Fig Tree, Tobruk">
+      <div class="card-body">
+        <h5 class="card-title">Fig Tree, Tobruk</h5>
+        <p class="card-text">
+        </p>
+      </div> <!-- end cardbody -->
+    </div>
+    <!-- END: card -->
+
+
+
+  <!-- BEGIN: card -->
+    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <img class="card-img-top" src="tobruk_cem1.jpg" alt="Australian Memorial, Tobruk">
+      <div class="card-body">
+        <h5 class="card-title">Australian Memorial, Tobruk</h5>
+        <p class="card-text">
+        </p>
+      </div> <!-- end cardbody -->
+    </div>
+    <!-- END: card -->
+
+
+
+  <!-- BEGIN: card -->
+    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <img class="card-img-top" src="tobruk_cem2.jpg" alt="Australian Memorial, Tobruk">
+      <div class="card-body">
+        <h5 class="card-title">Australian Memorial, Tobruk</h5>
+        <p class="card-text">
+        </p>
+      </div> <!-- end cardbody -->
+    </div>
+    <!-- END: card -->
+  </div> <!-- end row -->
+</div>  <!-- end card container -->
 
 
   </div>

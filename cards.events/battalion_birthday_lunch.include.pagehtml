@@ -1,0 +1,15 @@
+
+
+  <!-- BEGIN: card -->
+    <div class="card shadow col-sm-12 p-3 mb-5 bg-white rounded">
+      <img class="card-img-top" src="/image.cardheaders/birthday.jpg" alt="Battalion Birthday Lunch">
+      <span class="badge badge-pill badge-danger" style=".top-right { position: absolute; top: 8px; right: 16px; }">2018/07/06</span>
+      <div class="card-body">
+        <h5 class="card-title">Battalion Birthday Lunch</h5>
+        <p class="card-text">
+      <b>date:</b> 12:00pm-2:00pm @ Fri 06 July 2018<br>
+      <b>location:</b> <a href="https://www.google.com/maps/search/?api=1&query=40 Cumberland Rd, Pascoe Vale VIC 3044, Australia">Pascoe Vale RSL [40 Cumberland Rd, Pascoe Vale VIC 3044, Australia]</a><br>
+        </p>
+      </div> <!-- end cardbody -->
+    </div>
+    <!-- END: card -->
