@@ -107,15 +107,19 @@
  <div class="row">
   <div class="col-sm">
 
-    <div>
+    <div class="alert alert-danger">
+      <h6>This is Cam's debug window..... It will go away soon</h6>
       Screen size: <span id="replacemeXY">not set yet</span>
+      <input type="submit" onclick="redosizes()">
+      <br>
+      Screen profile is:
             <span class="badge bg-info d-xxl-inline d-none">xxl</span>
             <span class="badge bg-info d-xxl-none d-xl-inline d-none">xl</span>
             <span class="badge bg-info d-xl-none d-lg-inline d-none">lg</span>
             <span class="badge bg-info d-lg-none d-md-inline d-none">md</span>
             <span class="badge bg-info d-md-none d-sm-inline d-none">sm</span>
             <span class="badge bg-info d-sm-none d-xs-inline d-none">xs</span>
-            <span class="badge bg-info d-xs-none d-inline d-none">xxs</span>
+            <span class="badge bg-info d-xs-none d-sm-none d-inline d-none">xxs</span>
     </div>
 
 <script>
@@ -126,8 +130,8 @@ function redosizes() {
   "document is " + $(document).width() + ',' + $(document).height() + '<br>' ;
   }
 window.addEventListener("resize", redosizes );
-
-
+$(window).on( 'load',redosizes() );
+document.onload( redosizes() );
 </script>
 
   </div>
