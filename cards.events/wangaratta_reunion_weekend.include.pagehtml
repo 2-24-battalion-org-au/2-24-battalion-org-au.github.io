@@ -2,7 +2,9 @@
 
   <!-- BEGIN: card -->
     <div class="card shadow col-sm-12 p-3 mb-5 bg-white rounded">
+      <a href="/cards.events/wangaratta_reunion_weekend.html">
       <img class="card-img-top" src="/image.cardheaders/wangaratta.jpg" alt="Wangaratta Reunion Weekend">
+      </a>
       <span class="badge badge-pill badge-danger" style=".top-right { position: absolute; top: 8px; right: 16px; }">2018/11/09</span>
       <div class="card-body">
         <h5 class="card-title">Wangaratta Reunion Weekend</h5>

@@ -2,7 +2,9 @@
 
   <!-- BEGIN: card -->
     <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <a href="/cards.events/anzac_day_march.html">
       <img class="card-img-top" src="/image.cardheaders/anzac.jpg" alt="Anzac day March">
+      </a>
       <span class="badge badge-pill badge-danger" style=".top-right { position: absolute; top: 8px; right: 16px; }">2018/04/26</span>
       <div class="card-body">
         <h5 class="card-title">Anzac day March</h5>
@@ -18,7 +20,9 @@
 
   <!-- BEGIN: card -->
     <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <a href="/cards.events/anzac_reunion_lunch.html">
       <img class="card-img-top" src="/image.cardheaders/anzac.jpg" alt="Anzac Reunion Lunch">
+      </a>
       <span class="badge badge-pill badge-danger" style=".top-right { position: absolute; top: 8px; right: 16px; }">2018/04/26</span>
       <div class="card-body">
         <h5 class="card-title">Anzac Reunion Lunch</h5>
@@ -34,7 +38,9 @@
 
   <!-- BEGIN: card -->
     <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <a href="/cards.events/battalion_birthday_lunch.html">
       <img class="card-img-top" src="/image.cardheaders/birthday.jpg" alt="Battalion Birthday Lunch">
+      </a>
       <span class="badge badge-pill badge-danger" style=".top-right { position: absolute; top: 8px; right: 16px; }">2018/07/06</span>
       <div class="card-body">
         <h5 class="card-title">Battalion Birthday Lunch</h5>
@@ -50,7 +56,9 @@
 
   <!-- BEGIN: card -->
     <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <a href="/cards.events/224th_shrine_pilgrimage_service.html">
       <img class="card-img-top" src="/image.cardheaders/shrine.jpg" alt="2/24th Shrine Pilgrimage Service">
+      </a>
       <span class="badge badge-pill badge-danger" style=".top-right { position: absolute; top: 8px; right: 16px; }">2018/10/21</span>
       <div class="card-body">
         <h5 class="card-title">2/24th Shrine Pilgrimage Service</h5>
@@ -66,7 +74,9 @@
 
   <!-- BEGIN: card -->
     <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <a href="/cards.events/9th_division_shrine_pilgrimage_service.html">
       <img class="card-img-top" src="/image.cardheaders/shrine.jpg" alt="9th Division Shrine Pilgrimage Service">
+      </a>
       <span class="badge badge-pill badge-danger" style=".top-right { position: absolute; top: 8px; right: 16px; }">2018/10/26</span>
       <div class="card-body">
         <h5 class="card-title">9th Division Shrine Pilgrimage Service</h5>
@@ -82,7 +92,9 @@
 
   <!-- BEGIN: card -->
     <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <a href="/cards.events/wangaratta_reunion_weekend.html">
       <img class="card-img-top" src="/image.cardheaders/wangaratta.jpg" alt="Wangaratta Reunion Weekend">
+      </a>
       <span class="badge badge-pill badge-danger" style=".top-right { position: absolute; top: 8px; right: 16px; }">2018/11/09</span>
       <div class="card-body">
         <h5 class="card-title">Wangaratta Reunion Weekend</h5>

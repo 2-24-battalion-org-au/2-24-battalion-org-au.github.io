@@ -2,7 +2,9 @@
 
   <!-- BEGIN: card -->
     <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <a href="/cards.frontpage/images/9thDiv_elal.jpg.html">
       <img class="card-img-top" src="9thDiv_elal.jpg" alt="9th Division memorial, El Alamein">
+      </a>
       <div class="card-body">
         <h5 class="card-title">9th Division memorial, El Alamein</h5>
         <p class="card-text">

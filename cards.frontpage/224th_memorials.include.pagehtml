@@ -2,7 +2,9 @@
 
   <!-- BEGIN: card -->
     <div class="card shadow col-sm-12 p-3 mb-5 bg-white rounded">
+      <a href="/cards.frontpage/224th_memorials.html">
       <img class="card-img-top" src="/cards.frontpage/images/9thDiv_elal.jpg" alt="2/24th Memorials">
+      </a>
       <div class="card-body">
         <h5 class="card-title">2/24th Memorials</h5>
         <p class="card-text">

@@ -2,7 +2,9 @@
 
   <!-- BEGIN: card -->
     <div class="card shadow col-sm-12 p-3 mb-5 bg-white rounded">
+      <a href="/cards.news/20071101-wang/IMGP6121.JPG.html">
       <img class="card-img-top" src="IMGP6121.JPG" alt="None">
+      </a>
       <div class="card-body">
         <p class="card-text">
         </p>

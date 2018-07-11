@@ -2,7 +2,9 @@
 
   <!-- BEGIN: card -->
     <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <a href="/cards.frontpage/images/9thDiv_elal.jpg.html">
       <img class="card-img-top" src="9thDiv_elal.jpg" alt="9th Division memorial, El Alamein">
+      </a>
       <div class="card-body">
         <h5 class="card-title">9th Division memorial, El Alamein</h5>
         <p class="card-text">
@@ -15,7 +17,9 @@
 
   <!-- BEGIN: card -->
     <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <a href="/cards.frontpage/images/acroma2.jpg.html">
       <img class="card-img-top" src="acroma2.jpg" alt="Knightsbridge cemetery, Tobruk">
+      </a>
       <div class="card-body">
         <h5 class="card-title">Knightsbridge cemetery, Tobruk</h5>
         <p class="card-text">
@@ -28,7 +32,9 @@
 
   <!-- BEGIN: card -->
     <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <a href="/cards.frontpage/images/figtree08.jpg.html">
       <img class="card-img-top" src="figtree08.jpg" alt="Fig Tree, Tobruk">
+      </a>
       <div class="card-body">
         <h5 class="card-title">Fig Tree, Tobruk</h5>
         <p class="card-text">
@@ -41,7 +47,9 @@
 
   <!-- BEGIN: card -->
     <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <a href="/cards.frontpage/images/tobruk_cem1.jpg.html">
       <img class="card-img-top" src="tobruk_cem1.jpg" alt="Australian Memorial, Tobruk">
+      </a>
       <div class="card-body">
         <h5 class="card-title">Australian Memorial, Tobruk</h5>
         <p class="card-text">
@@ -54,7 +62,9 @@
 
   <!-- BEGIN: card -->
     <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+      <a href="/cards.frontpage/images/tobruk_cem2.jpg.html">
       <img class="card-img-top" src="tobruk_cem2.jpg" alt="Australian Memorial, Tobruk">
+      </a>
       <div class="card-body">
         <h5 class="card-title">Australian Memorial, Tobruk</h5>
         <p class="card-text">
