@@ -1,7 +1,7 @@
 
 
   <!-- BEGIN: card -->
-    <div class="card shadow col-sm-12 p-3 mb-5 bg-white rounded">
+    <div class="card shadow col-sm-12 p-3 mb-5 bg-white rounded" style="opacity:.3;" >
       <a href="/cards.events/battalion_birthday_lunch.html">
       <img class="card-img-top" src="/image.cardheaders/birthday.jpg" alt="Battalion Birthday Lunch">
       </a>

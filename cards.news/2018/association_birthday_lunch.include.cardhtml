@@ -1,7 +1,7 @@
 
 
   <!-- BEGIN: card -->
-    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded"  >
       <span class="badge badge-pill badge-danger" style=".top-right { position: absolute; top: 8px; right: 16px; }">2018/07/05</span>
       <div class="card-body">
         <h5 class="card-title">Association birthday lunch</h5>

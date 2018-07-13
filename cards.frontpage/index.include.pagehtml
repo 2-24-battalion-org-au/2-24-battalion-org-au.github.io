@@ -1,7 +1,7 @@
 
 
   <!-- BEGIN: card -->
-    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded"  >
       <a href="/cards.frontpage/224th_memorials.html">
       <img class="card-img-top" src="/cards.frontpage/images/9thDiv_elal.jpg" alt="2/24th Memorials">
       </a>
@@ -16,7 +16,7 @@
 
 
   <!-- BEGIN: card -->
-    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded"  >
       <div class="card-body">
         <h5 class="card-title">We Will Remember Them</h5>
         <p class="card-text">
@@ -38,7 +38,7 @@ We will remember them.</p>
 
 
   <!-- BEGIN: card -->
-    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded">
+    <div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded"  >
       <div class="card-body">
         <h5 class="card-title">Associated Bodies</h5>
         <p class="card-text">

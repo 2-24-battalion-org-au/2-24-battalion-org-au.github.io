@@ -1,7 +1,7 @@
 
 
   <!-- BEGIN: card -->
-    <div class="card shadow col-sm-12 p-3 mb-5 bg-white rounded">
+    <div class="card shadow col-sm-12 p-3 mb-5 bg-white rounded"  >
       <a href="/cards.frontpage/images/tobruk_cem1.jpg.html">
       <img class="card-img-top" src="tobruk_cem1.jpg" alt="Australian Memorial, Tobruk">
       </a>
